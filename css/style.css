@@ -11,5 +11,12 @@ p {
 }
 
 a {
+  display: block;
+
+  align-content: space-evenly;
+}
+
+h2{
+  padding-top: 50px;
   text-align: center;
 }
