@@ -2,21 +2,28 @@ body {
   background-color: rgb(202, 211, 237);
 }
 
-h1 {
-  text-align: center;
-}
-
+h1,
 p {
   text-align: center;
 }
 
-a {
-  display: block;
-
-  align-content: space-evenly;
-}
-
-h2{
+h2 {
   padding-top: 50px;
   text-align: center;
+}
+
+.croissant-photo {
+  max-width: 100%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+}
+
+footer {
+  text-align: center;
+}
+footer a {
+  text-align: center;
+  margin: 0 10px;
+  color: blueviolet;
 }
